@@ -1,7 +1,7 @@
 {
-  "name": "hello_react",
+  "name": "jyanken",
   "version": "1.0.0",
-  "description": "Hello React",
+  "description": "Jyanken",
   "private": true,
   "main": "index.js",
   "scripts": {
