@@ -1,11 +1,11 @@
 {
   "name": "jyanken",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Jyanken",
   "private": true,
   "main": "index.js",
   "scripts": {
-    "start": "webpack serve",
+    "start": "webpack-dev-server --history-api-fallback",
     "webpack": "webpack -d"
   },
   "keywords": [],
